@@ -34,7 +34,7 @@
     "graphql-type-json": "^0.3.2",
     "graphql-upload": "^16.0.2",
     "lodash-es": "^4.17.21",
-    "next-auth": "^4.22.1",
+    "next-auth": "^4.24.5",
     "nodemailer": "^6.9.3",
     "parse-duration": "^1.1.0",
     "prisma": "^4.16.2",

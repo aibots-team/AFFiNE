@@ -16,7 +16,7 @@
     "@blocksuite/global": "0.0.0-20230713062147-9eb7708c-nightly",
     "@blocksuite/store": "0.0.0-20230713062147-9eb7708c-nightly",
     "@playwright/test": "^1.35.1",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "http-proxy-middleware": "^3.0.0-beta.1",
     "serve": "^14.2.0",
     "vitest": "^0.32.2"
